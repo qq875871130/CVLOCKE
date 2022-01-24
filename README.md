@@ -35,10 +35,10 @@
 </div>
 <br>
 <div align="center">
-    <a  href="https://github.com/qq875871130/Corona100days"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qq875871130&repo=Corona100days" /></a>&emsp;
-    <a  href="https://github.com/qq875871130/cvBase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qq875871130&repo=cvBase" /></a>
-    <a  href="https://github.com/qq875871130/TTF_Workshop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qq875871130&repo=TTF_Workshop" /></a>&emsp;
-    <a  href="https://github.com/qq875871130/CPLA_System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qq875871130&repo=CPLA_System" /></a>
+    <a  href="https://github.com/qq875871130/Corona100days"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qq875871130&repo=Corona100days&theme=vue" /></a>&emsp;
+    <a  href="https://github.com/qq875871130/cvBase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qq875871130&repo=cvBase&theme=vue" /></a>
+    <a  href="https://github.com/qq875871130/TTF_Workshop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qq875871130&repo=TTF_Workshop&theme=vue" /></a>&emsp;
+    <a  href="https://github.com/qq875871130/CPLA_System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qq875871130&repo=CPLA_System&theme=vue" /></a>
 </div>
 
 
