@@ -38,9 +38,8 @@
 <br>
 <div align="center">
     <a  href="https://github.com/qq875871130/Corona100days"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qq875871130&repo=Corona100days&theme=vue" /></a>&emsp;
-    <a  href="https://github.com/qq875871130/PowerCool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qq875871130&repo=PowerCool&theme=vue" /></a>
-    <a  href="https://github.com/qq875871130/TTF_Workshop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qq875871130&repo=TTF_Workshop&theme=vue" /></a>&emsp;
-    <a  href="https://github.com/qq875871130/CPLA_System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qq875871130&repo=CPLA_System&theme=vue" /></a>
+    <a  href="https://github.com/qq875871130/TTF_Workshop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qq875871130&repo=TTF_Workshop&theme=vue" /></a>
+  </a>
 </div>
 
 
