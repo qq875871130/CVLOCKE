@@ -32,7 +32,7 @@
 
 <br>
 <div align="center">    
-  <img height="166" width="432"  src="https://github-readme-stats.vercel.app/api?count_private=true&username=qq875871130&show_icons=true&theme=swift"  alt="CV's GitHub stats"/>&emsp;
+  <img height="166" width="432"  src="https://github.com/Github-Stats/api?count_private=true&username=qq875871130&show_icons=true&theme=swift"  alt="CV's GitHub stats"/>&emsp;
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qq875871130&layout=compact&theme=swift" alt="Top Langs" />
 </div>
 <br>
