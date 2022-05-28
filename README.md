@@ -38,7 +38,7 @@
 <br>
 <div align="center">
     <a  href="https://github.com/qq875871130/Corona100days"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qq875871130&repo=Corona100days&theme=vue" /></a>&emsp;
-  <a  href="https://github.com/qq875871130/TTF_WorkShop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qq875871130&repo=TTF_WorkShop&theme=vue" /></a>
+  <a  href="https://github.com/qq875871130/TTF_WorkShop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qq875871130&repo=TTF_WorkShop&theme=vue&include_all_commits=true" /></a>
 </div>
 
 
