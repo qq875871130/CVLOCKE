@@ -15,18 +15,6 @@
   <img  src="https://github.com/qq875871130/CVLOCKE/blob/main/res/here-to-find-me.svg" />
   </a>
 </div>
-<br>
-<div align="center">
-   <span>
-    <a  href="https://dmt.cvlocke.site/@cvlocke"><img height=24  src="https://github.com/qq875871130/CVLOCKE/blob/main/res/dmt.png" /></a>&emsp;
-    <a  href="https://www.instagram.com/wlchen2"><img height=24 src="https://github.com/qq875871130/CVLOCKE/blob/main/res/ins.svg" /></a>
-   </span>&emsp;&emsp;&emsp;
-   <span>
-    <a  href="https://store.steampowered.com"><img height=24  src="https://github.com/qq875871130/CVLOCKE/blob/main/res/steam.svg" /></a>&emsp;
-    <a  href="https://origin.com"><img height=24 src="https://github.com/qq875871130/CVLOCKE/blob/main/res/origin.svg" /></a>&emsp;
-    <a  href="https://www.epicgames.com/"><img height=24  src="https://github.com/qq875871130/CVLOCKE/blob/main/res/epic.svg" /></a>  
-   </span>
-</div>
 
 # 
 
